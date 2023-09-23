@@ -8,6 +8,7 @@ This repository contains code and resources for a text classification project th
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Prerequisites](#prerequisites)
+- [Preprocessing](#preprocessing)
 - [Models](#models)
 - [Results](#results)
 - [Predictions](#predictions)
@@ -26,8 +27,21 @@ To run the code in this repository, you need to have the following prerequisites
 
 - Python (version 3.6 or higher)
 - Libraries such as pandas, scikit-learn, nltk, and joblib
-
 To install the necessary libraries, run the following command:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Preprocessing
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/d563ccc3-90ad-4774-9a44-6bd92c54595c)
+
+## Models
+Multinomial Naive Bayes
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/72da4780-d258-4531-aca8-407780b00a3d)
+
+    Logistic Regression
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/e934ed0d-aa75-45ce-a335-63e5045271fe)
+
+    Random Forest Classifier
+    Support Vector Classifier
