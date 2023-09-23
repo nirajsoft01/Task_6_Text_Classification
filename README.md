@@ -31,7 +31,8 @@ To run the code in this repository, you need to have the following prerequisites
 To install the necessary libraries, run the following command:
 
 ## EDA & Data Visualization
-![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/bfd2801f-bd30-42c1-b7c5-dafc578ab7f7)
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/c43d6bf2-fdc5-49da-9e45-bd72c37aa933)
+
 
 ## Preprocessing
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/d563ccc3-90ad-4774-9a44-6bd92c54595c)
