@@ -1,4 +1,4 @@
-# Task_6_Text_Classification
+# Task 6 : Text Classification on Consumer Complaint Dataset
 
 # Text Classification Project
 
