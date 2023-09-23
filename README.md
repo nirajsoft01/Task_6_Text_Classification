@@ -40,15 +40,20 @@ To install the necessary libraries, run the following command:
 Multinomial Naive Bayes
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/72da4780-d258-4531-aca8-407780b00a3d)
 
-    Logistic Regression
+Logistic Regression
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/9ae4ef7e-0507-40aa-ace5-75afa78091ea)
+
     Random Forest Classifier
     Support Vector Classifier
 
 ## Results
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/e934ed0d-aa75-45ce-a335-63e5045271fe)
-![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/a3c54e54-9111-41ff-af6e-49f40d25f33f)
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/24ce196a-b335-450a-b59d-ec8fec691e14)
+
+
 
 
 ## Predictions
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/c3762a58-3c49-4db5-a324-f14f4c2ffbb4)
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/a3c54e54-9111-41ff-af6e-49f40d25f33f)
 
