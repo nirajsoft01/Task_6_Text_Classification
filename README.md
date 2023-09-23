@@ -8,7 +8,6 @@ This repository contains code and resources for a text classification project th
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
@@ -28,10 +27,6 @@ To run the code in this repository, you need to have the following prerequisites
 
 - Python (version 3.6 or higher)
 - Libraries such as pandas, scikit-learn, nltk, and joblib
-
-You can install the required libraries using the provided `requirements.txt` file.
-
-## Installation
 
 To install the necessary libraries, run the following command:
 
