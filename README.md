@@ -8,9 +8,9 @@ This repository contains code and resources for a text classification project th
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
+- [Predictions](#predictions)
 
 ## Introduction
 
