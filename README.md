@@ -8,6 +8,7 @@ This repository contains code and resources for a text classification project th
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Prerequisites](#prerequisites)
+- [EDA_Data_Visualization](#EDA)
 - [Preprocessing](#preprocessing)
 - [Models](#models)
 - [Results](#results)
@@ -29,9 +30,8 @@ To run the code in this repository, you need to have the following prerequisites
 - Libraries such as pandas, scikit-learn, nltk, and joblib
 To install the necessary libraries, run the following command:
 
-```bash
-pip install -r requirements.txt
-
+## EDA & Data Visualization
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/bfd2801f-bd30-42c1-b7c5-dafc578ab7f7)
 
 ## Preprocessing
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/d563ccc3-90ad-4774-9a44-6bd92c54595c)
@@ -41,7 +41,14 @@ Multinomial Naive Bayes
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/72da4780-d258-4531-aca8-407780b00a3d)
 
     Logistic Regression
-![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/e934ed0d-aa75-45ce-a335-63e5045271fe)
-
     Random Forest Classifier
     Support Vector Classifier
+
+## Results
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/e934ed0d-aa75-45ce-a335-63e5045271fe)
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/a3c54e54-9111-41ff-af6e-49f40d25f33f)
+
+
+## Predictions
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/c3762a58-3c49-4db5-a324-f14f4c2ffbb4)
+
