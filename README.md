@@ -11,7 +11,6 @@ This repository contains code and resources for a text classification project th
 - [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
