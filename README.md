@@ -44,12 +44,18 @@ Multinomial Naive Bayes
 Logistic Regression
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/9ae4ef7e-0507-40aa-ace5-75afa78091ea)
 
-    Random Forest Classifier
-    Support Vector Classifier
+Reccurent Neural Network
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/52cd9568-8ecb-445c-8a02-12680a1ef4f9)
+
+Random Forest Classifier
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/604c34b6-30a5-4d39-b10f-23c7b0be2187)
+
 
 ## Results
 ![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/e934ed0d-aa75-45ce-a335-63e5045271fe)
-![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/24ce196a-b335-450a-b59d-ec8fec691e14)
+![image](https://github.com/nirajsoft01/Task_6_Text_Classification/assets/70097083/162ab76a-5dd7-4851-9b54-d187e9f836a5)
+
+
 
 
 
